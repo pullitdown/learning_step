@@ -1,6 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
+//´óÊý³Ë³ý
 int num[10000];
 int shang[10000];
 void timee(int m)
@@ -42,10 +43,10 @@ void divided(int m)
 	{
 		num[i] = 0;
 	}
-
 }
 int main()
 {
+	cout<<"github"<<endl;
 	int n, max = 0;
 	cin >> n;
 	int a, b;
